@@ -96,7 +96,7 @@
                 android:layout_marginLeft="15.0dip"
                 android:layout_marginTop="5dip"
                 android:singleLine="true"
-                android:text="今天18:25发布"
+                android:text="今天18:25发布" 
                 android:textColor="@android:color/white"
                 android:textSize="15.0sp" />
             <!-- 湿度信息 -->
