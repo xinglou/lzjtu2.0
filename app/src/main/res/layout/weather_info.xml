@@ -31,7 +31,7 @@
             android:layout_toRightOf="@id/city_seperator"
             android:gravity="center_vertical"
             android:paddingLeft="5dip"
-            android:text="北京天气"
+            android:text="兰州天气"
             android:textColor="#ffffffff"
             android:textSize="22.0sp" />
 
@@ -83,7 +83,7 @@
                 android:layout_alignParentTop="true"
                 android:layout_marginLeft="15.0dip"
                 android:singleLine="true"
-                android:text="北京"
+                android:text="兰州"
                 android:textColor="@android:color/white"
                 android:textSize="40.0sp" />
             <!-- 发布时间 -->
